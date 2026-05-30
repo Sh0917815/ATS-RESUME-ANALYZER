@@ -3,7 +3,9 @@
 An AI-powered **ATS Resume Analyzer** built using Streamlit that evaluates how well a resume matches a job description using **NLP-based semantic similarity + skill extraction + ATS scoring logic**.
 
 ---
-
+## Live demo
+https://ats-resume-analyzer-dpfefuukdwsbdxoqt9uqin.streamlit.app/
+---
 ## 🎯 Problem Statement
 
 Recruiters spend only a few seconds scanning resumes. Many qualified candidates get rejected because their resumes are not optimized for Applicant Tracking Systems (ATS).  
