@@ -45,13 +45,10 @@ This tool helps candidates understand:
 
 ## 🏗️ Project Structure
 ATS-Resume-Analyzer/
-│
-├── app.py # Streamlit frontend + UI logic
-├── utils.py # NLP + scoring + skill extraction logic
-├── requirements.txt # Project dependencies
-└── README.md
-
-
+  app.py           # Streamlit frontend + UI logic
+  utils.py         # NLP + scoring + skill extraction logic
+  requirements.txt # Project dependencies
+  README.md
 ---
 
 ## ⚙️ How It Works
@@ -81,13 +78,14 @@ This ensures both keyword matching and contextual understanding are considered.
 
 ## 📸 Screenshots
 
-> Add screenshots here for better presentation
 
 ### ATS Dashboard
-(Add image here)
+<img width="1240" height="1641" alt="ATS Resume Analyzer · Streamlit_page-0001" src="https://github.com/user-attachments/assets/ce2a2f96-b4db-4e69-ad62-3d092896bd7b" />
+
 
 ### Skill Analysis View
-(Add image here)
+
+<img width="1240" height="1657" alt="ATS Resume Analyzer · Streamlit_page-0002" src="https://github.com/user-attachments/assets/b69cf47d-cde0-4e4c-8862-c9b00c62f13a" />
 
 ---
 
