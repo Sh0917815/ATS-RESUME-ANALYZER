@@ -45,11 +45,10 @@ This tool helps candidates understand:
 
 ## 🏗️ Project Structure
 ATS-Resume-Analyzer/
-  app.py           # Streamlit frontend + UI logic
-  utils.py         # NLP + scoring + skill extraction logic
-  requirements.txt # Project dependencies
-  README.md
----
+  ├── app.py           # Streamlit frontend + UI logic
+  ├── utils.py         # NLP + scoring + skill extraction logic
+  ├── requirements.txt # Project dependencies
+  └── README.md
 
 ## ⚙️ How It Works
 
